@@ -814,3 +814,10 @@ SF sagt, dass das Spiel nach 48. Nxc6 verloren ist (besser wäre Tc1).
 Aber selbst nach 52. ... Qd1+ glaubt Rubi an ein Remis (mindestens bis Tiefe 41).
 Ist der gewünschte Zug 53. Ke3 dann gespielt, erkennt Rubi sofort die Niederlage.
 Hier passiert irgendein falsches Pruning. Sollte untersucht werden.
+
+
+12.01.2020
+Interesting position found by Jon Dart:
+5rk1/5pp1/pQ3n1p/2P5/2pP4/P1Nb2P1/1B3PKP/4r3 w - -
+Rubi tends to play f2f3 (from depth 29 to at least depth 35) instead of drawing g3g4
+After f3 it immediately knows that this is lost.
