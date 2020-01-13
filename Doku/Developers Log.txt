@@ -821,3 +821,13 @@ Interesting position found by Jon Dart:
 5rk1/5pp1/pQ3n1p/2P5/2pP4/P1Nb2P1/1B3PKP/4r3 w - -
 Rubi tends to play f2f3 (from depth 29 to at least depth 35) instead of drawing g3g4
 After f3 it immediately knows that this is lost.
+
+
+13.01.2020
+Positions from Rubi vs LS games:
+8/2Q2ppk/7p/P4b2/3N4/7P/P1p2PPK/2q5 w - - 2 30 
+ > Rubi evaluates (and plays) losing Nxc2 as draw.
+5R2/8/8/4P2p/4kP1K/3r2P1/2p5/8 w - - 0 69 
+ > Rubi evaluates winning move Rc8 as draw
+2kr1b1r/1pp2pp1/2n1q1b1/1Nn1p2p/4P3/P2P1N1P/1BQ1BPP1/3R1RK1 w - - 1 21 
+ > Big eval difference to SF: 0.08 / 1.50 at depth 36
