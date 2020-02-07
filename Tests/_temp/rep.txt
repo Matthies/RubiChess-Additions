@@ -223,3 +223,95 @@ Qd8 {-1.28/15 0.86s} 19. c4 {+1.33/14 0.37s} Bf6 {-1.28/14 0.30s} 20. Be3
 {-2.13/18 0.47s} 44. Rd6 {+2.11/17 0.37s} Ra2 {-2.09/17 0.62s} 45. Rd5
 {+2.11/15 0.22s} Ra4 {-2.09/16 0.45s} 46. Rd6 {+2.11/18 0.64s, Draw by
 3-fold repetition} 1/2-1/2
+
+
+[Event "Computer Schach Partie"]
+[Site "D-W-D814669"]
+[Date "2020.02.06"]
+[Round "?"]
+[White "matthand-lokal"]
+[Black "matthand-lokal"]
+[Result "1/2-1/2"]
+[BlackElo "2400"]
+[Time "19:17:24"]
+[WhiteElo "2400"]
+[TimeControl "20+6"]
+[Termination "normal"]
+[PlyCount "10"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. Nf3 Nf6 2. Ng1 Ng8 3. Nf3 Nf6 4. Nd4 Nd5 5. Nf3 Nf6
+{Stellungswiederholung} 1/2-1/2
+
+
+Reproduktion des Problems:
+==========================
+1. Direktesspielen eines 3fold aus dem Hash:
+a. Spieler steht besser als draw und nimmt den Hashmove, der zum draw führt:
+tp.addHash(0xce54e8a1093609ab, 123, 50, HASHEXACT, 15, 0x08ed);
+position fen rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/1NBQKBNR w Kkq - 0 1 moves g1f3 g8f6 f3g1 f6g8 g1f3 g8f6 f3d4 f6d5 d4f3
+go
+info depth 1 seldepth 1 multipv 1 time 7869 score cp 123  nodes 1 nps 0 tbhits 0 hashfull 0 pv d5f6
+info depth 2 seldepth 2 multipv 1 time 10448 score cp 123  nodes 2 nps 0 tbhits 0 hashfull 0 pv d5f6
+info depth 3 seldepth 3 multipv 1 time 10449 score cp 123  nodes 3 nps 0 tbhits 0 hashfull 0 pv d5f6
+info depth 4 seldepth 4 multipv 1 time 10449 score cp 123  nodes 4 nps 0 tbhits 0 hashfull 0 pv d5f6
+info depth 5 seldepth 5 multipv 1 time 10449 score cp 123  nodes 5 nps 0 tbhits 0 hashfull 0 pv d5f6
+info depth 6 seldepth 6 multipv 1 time 10449 score cp 123  nodes 6 nps 0 tbhits 0 hashfull 0 pv d5f6
+info depth 7 seldepth 7 multipv 1 time 10450 score cp 123  nodes 7 nps 0 tbhits 0 hashfull 0 pv d5f6
+info depth 8 seldepth 8 multipv 1 time 10451 score cp 123  nodes 8 nps 0 tbhits 0 hashfull 0 pv d5f6
+info depth 9 seldepth 9 multipv 1 time 10451 score cp 123  nodes 9 nps 0 tbhits 0 hashfull 0 pv d5f6
+info depth 10 seldepth 10 multipv 1 time 10452 score cp 123  nodes 10 nps 0 tbhits 0 hashfull 0 pv d5f6
+info depth 11 seldepth 11 multipv 1 time 10453 score cp 123  nodes 11 nps 1 tbhits 0 hashfull 0 pv d5f6
+info depth 12 seldepth 12 multipv 1 time 10454 score cp 123  nodes 12 nps 1 tbhits 0 hashfull 0 pv d5f6
+info depth 13 seldepth 13 multipv 1 time 10455 score cp 123  nodes 13 nps 1 tbhits 0 hashfull 0 pv d5f6
+info depth 14 seldepth 14 multipv 1 time 10455 score cp 123  nodes 14 nps 1 tbhits 0 hashfull 0 pv d5f6
+info depth 15 seldepth 15 multipv 1 time 10456 score cp 123  nodes 15 nps 1 tbhits 0 hashfull 0 pv d5f6
+info depth 16 seldepth 20 multipv 1 time 10770 score cp 168 lowerbound nodes 61502 nps 5710 tbhits 0 hashfull 14 pv a7a6
+info depth 16 seldepth 20 multipv 1 time 11260 score cp 456 lowerbound nodes 168985 nps 15007 tbhits 0 hashfull 36 pv d5b6
+
+b. Spieler steht schlechter als draw und nimmt den Hashmove, der zum nicht zum draw führt:
+tp.addHash(0x873f6cbf9fdf564c, -123, 50, HASHEXACT, 15, 0x0e6a);
+position fen 1nbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w Kkq - 0 1 moves g1f3 g8f6 f3g1 f6g8 g1f3 g8f6 f3d4 f6d5 d4f3
+go
+info depth 1 seldepth 1 multipv 1 time 1 score cp -123  nodes 1 nps 609 tbhits 0 hashfull 0 pv b8c6
+info depth 2 seldepth 2 multipv 1 time 2 score cp -123  nodes 2 nps 977 tbhits 0 hashfull 0 pv b8c6
+info depth 3 seldepth 3 multipv 1 time 2 score cp -123  nodes 3 nps 1322 tbhits 0 hashfull 0 pv b8c6
+info depth 4 seldepth 4 multipv 1 time 2 score cp -123  nodes 4 nps 1584 tbhits 0 hashfull 0 pv b8c6
+info depth 5 seldepth 5 multipv 1 time 2 score cp -123  nodes 5 nps 1780 tbhits 0 hashfull 0 pv b8c6
+info depth 6 seldepth 6 multipv 1 time 3 score cp -123  nodes 6 nps 1943 tbhits 0 hashfull 0 pv b8c6
+info depth 7 seldepth 7 multipv 1 time 3 score cp -123  nodes 7 nps 1931 tbhits 0 hashfull 0 pv b8c6
+info depth 8 seldepth 8 multipv 1 time 4 score cp -123  nodes 8 nps 1949 tbhits 0 hashfull 0 pv b8c6
+info depth 9 seldepth 9 multipv 1 time 6 score cp -123  nodes 9 nps 1349 tbhits 0 hashfull 0 pv b8c6
+info depth 10 seldepth 10 multipv 1 time 7 score cp -123  nodes 10 nps 1375 tbhits 0 hashfull 0 pv b8c6
+info depth 11 seldepth 11 multipv 1 time 9 score cp -123  nodes 11 nps 1188 tbhits 0 hashfull 0 pv b8c6
+info depth 12 seldepth 12 multipv 1 time 9 score cp -123  nodes 12 nps 1221 tbhits 0 hashfull 0 pv b8c6
+info depth 13 seldepth 13 multipv 1 time 10 score cp -123  nodes 13 nps 1224 tbhits 0 hashfull 0 pv b8c6
+info depth 14 seldepth 14 multipv 1 time 11 score cp -123  nodes 14 nps 1238 tbhits 0 hashfull 0 pv b8c6
+info depth 15 seldepth 15 multipv 1 time 11 score cp -123  nodes 15 nps 1264 tbhits 0 hashfull 0 pv b8c6
+info depth 16 seldepth 16 multipv 1 time 13 score cp 0  nodes 214 nps 15577 tbhits 0 hashfull 0 pv d5f6
+info depth 17 seldepth 17 multipv 1 time 14 score cp 0  nodes 315 nps 21093 tbhits 0 hashfull 0 pv d5f6
+info depth 18 seldepth 18 multipv 1 time 15 score cp 0  nodes 426 nps 27130 tbhits 0 hashfull 0 pv d5f6
+
+2. Erlauben eines 3fold für den Gegner; nur ein Problem, wenn Spieler besser als draw steht
+tp.addHash(0x2a06764d9a21647a, 123, 50, HASHEXACT, 15, 0x06d5);
+position fen 1nbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w Kkq - 0 1 moves g1f3 g8f6 f3g1 f6g8 g1f3 g8f6 f3d4 f6d5
+go
+info depth 1 seldepth 1 multipv 1 time 1 score cp 123  nodes 1 nps 845 tbhits 0 hashfull 0 pv d4f3
+info depth 2 seldepth 2 multipv 1 time 1 score cp 123  nodes 2 nps 1360 tbhits 0 hashfull 0 pv d4f3
+info depth 3 seldepth 3 multipv 1 time 2 score cp 123  nodes 3 nps 1430 tbhits 0 hashfull 0 pv d4f3
+info depth 4 seldepth 4 multipv 1 time 2 score cp 123  nodes 4 nps 1570 tbhits 0 hashfull 0 pv d4f3
+info depth 5 seldepth 5 multipv 1 time 2 score cp 123  nodes 5 nps 1674 tbhits 0 hashfull 0 pv d4f3
+info depth 6 seldepth 6 multipv 1 time 3 score cp 123  nodes 6 nps 1754 tbhits 0 hashfull 0 pv d4f3
+info depth 7 seldepth 7 multipv 1 time 3 score cp 123  nodes 7 nps 1811 tbhits 0 hashfull 0 pv d4f3
+info depth 8 seldepth 8 multipv 1 time 4 score cp 123  nodes 8 nps 1836 tbhits 0 hashfull 0 pv d4f3
+info depth 9 seldepth 9 multipv 1 time 4 score cp 123  nodes 9 nps 1803 tbhits 0 hashfull 0 pv d4f3
+info depth 10 seldepth 10 multipv 1 time 5 score cp 123  nodes 10 nps 1753 tbhits 0 hashfull 0 pv d4f3
+info depth 11 seldepth 11 multipv 1 time 6 score cp 123  nodes 11 nps 1732 tbhits 0 hashfull 0 pv d4f3
+info depth 12 seldepth 12 multipv 1 time 6 score cp 123  nodes 12 nps 1751 tbhits 0 hashfull 0 pv d4f3
+info depth 13 seldepth 13 multipv 1 time 7 score cp 123  nodes 13 nps 1778 tbhits 0 hashfull 0 pv d4f3
+info depth 14 seldepth 14 multipv 1 time 7 score cp 123  nodes 14 nps 1800 tbhits 0 hashfull 0 pv d4f3
+info depth 15 seldepth 15 multipv 1 time 8 score cp 123  nodes 15 nps 1833 tbhits 0 hashfull 0 pv d4f3
+info depth 16 seldepth 20 multipv 1 time 691 score cp 456 lowerbound nodes 132232 nps 191096 tbhits 0 hashfull 30 pv a2a4  b8c6
+stinfo depth 16 seldepth 20 multipv 1 time 2409 score cp 527  nodes 489312 nps 203051 tbhits 0 hashfull 128 pv e2e4  e7e5  e4d5  e5d4  d1g4  d8f6  g4e4  f8e7  c2c3  d7d6  c3d4  e8g8  b1c3  h7h6  f1b5  f6g5  e1g1
+
