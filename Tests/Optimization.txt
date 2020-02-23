@@ -1,0 +1,21 @@
+
+
+Speed comparison of various optimizations.
+"master" is github version GITVER=\"20200219204117\" -D GITID=\"e9d10d5\"
+"test" is identical with master with just UCI info output disabled: commit hash 40f58e8ec5a563c72f79e2325aacdec4d7689fb9
+Meassured was a three-time bench to depth 25 with perf tool:
+sudo perf stat -r 3 -a -B -e cycles:u,instructions:u ./test-pb-lto -bench -depth 25 > /dev/null
+
+		  Ryzen3700x
+===================
+master		|  61,8400 +- 0,1370
+test		|  61,8294 +- 0,0917 delta = 0,02%
+----------------+
+master+lto	|  58,8016 +- 0,0748
+test+lto	|  60,7997 +- 0,0392 delta = 3,75%
+----------------+
+master+pbo	|  57,9710 +- 0,1390
+test+pbo	|  58,2522 +- 0,0647 delta = 0,48%
+----------------+
+master+lto+pbo	|  55,2906 +- 0,0843  
+test+pbo+lto	|  55,3081 +- 0,0952 delta = 0.03%
