@@ -1,0 +1,319 @@
+241fea901617e2e9  54709ed19456955f  KNvKPPP  314 / 300 1
+c9bf71abb866d277  af4b8c801ad16f25  KBvKPPP  314 / 300 2
+71cfc1bb4829eb4d  ba35ee161b13e206  KBPPPvKNN  614 / 628 3
+822691a1da27698f  8ce2fe0b5db05bee  KBBvKNPPP  628 / 614 4
+71c6b045480371a1  03b23a470c77205e  KRvKNP  483 / 414 5
+43f8c6db4fbed423  693a3086e76171a9  KRPvKNN  583 / 628 6
+8afda214c6848bdb  ee12a17ca20610c0  KRvKBP  483 / 414 7
+8564be02ae1120b9  143313b3d7b5fbce  KRPvKBN  583 / 628 8
+53756250f456541e  aa125d60a8d2005a  KRPvKBB  583 / 628 9
+a954d09f81e5bf10  a58b4176c047ab38  KRNvKBBP  797 / 728 10
+5479ef2f947c0fb3  9d983ec1017320b1  KRBvKNNP  797 / 728 11
+eb9b9cd534912409  c9f606698f6359fa  KRRvKNNPPP  966 / 928 12
+2d07e40cd53ed093  b4ff255cbfb7d39d  KRRvKBNPPP  966 / 928 13
+f77e696e9351f643  b3e70ef98a1436e2  KRRvKBNN  966 / 942 14
+fb16385e8f79a434  0ade6b8fc0d02809  KRRvKBBPPP  966 / 928 15
+1cc8dfb4a63e8c04  9d6ff8246bd6778f  KRRvKBBN  966 / 942 16
+645ec57b21266639  cd7f571fa552c698  KRRPPvKBBNN  1166 / 1256 17
+430fa0389d82cac7  416ca1d98c8d63a1  KQvKNNPP  913 / 828 18
+8593d8e17c2d3e5d  3c6582ecbc59e9c6  KQvKBNPP  913 / 828 19
+8d350b855e027b3f  1c45e47cd7eaf78e  KQvKBNN  913 / 942 20
+538204b3266a4afa  8244cc3fc33e1252  KQvKBBPP  913 / 828 21
+6683bd5f6b6d0178  32cd12a13628b6e3  KQvKBBN  913 / 942 22
+392deaa5b2651072  b002e39c9cec6446  KQPPPvKBBNN  1213 / 1256 23
+84435877e41fce40  296ac8b9e5de2d9f  KQvKRNP  913 / 897 24
+b67d2ee9e3a26bc2  43e2c2780ec87c68  KQPvKRNN  1013 / 1111 25
+7f784a266a98343a  c4ca53824baf1d01  KQvKRBP  913 / 897 26
+70e15630020d9f58  3eebe14d3e1cf60f  KQPvKRBN  1013 / 1111 27
+a6f08a62584aebff  80caaf9e417b0d9b  KQPvKRBB  1013 / 1111 28
+5cd138ad2df900f1  8f53b38829eea6f9  KQNvKRBBP  1227 / 1211 29
+a1fc071d3860b052  b740cc3fe8da2d70  KQBvKRNNP  1227 / 1211 30
+468653ea3a3df9f9  936fdb84aa90b5e9  KQvKRR  913 / 966 31
+248f6e988c1de613  810992b79ef1ddb5  KQPPPvKRRN  1213 / 1280 32
+863f44df6a1cf217  d65eabc342a05134  KQNvKRRPP  1227 / 1166 33
+dfb47cc9029a1c69  6ca9098c3080ed2b  KQPPPvKRRB  1213 / 1280 34
+4805ef62a99c43ef  8b77ee6619c7c51b  KQNvKRRB  1227 / 1280 35
+181540596718f2f8  f3e1f4a99edf2f26  KQNNvKRRBPP  1541 / 1480 36
+fc1d0e4245fb28a2  2730e98652c156d3  KQNPPPvKRRBB  1527 / 1594 37
+fb0525e77058cddd  fd4964e414ae7003  KQNNvKRRBB  1541 / 1594 38
+6b9fdfe4c46dc289  2d65b992cc27ab4e  KQBvKRRPP  1227 / 1166 39
+5e9e6608896a890b  9dec670c39310fff  KQBvKRRN  1227 / 1280 40
+013031f250629801  1f23963193f5dd5a  KQBPPPvKRRNN  1527 / 1594 41
+20063feea62c7971  0ecccb198b469f85  KQBBvKRRNPP  1541 / 1480 42
+28a0ec8a84033c13  2eecad89e0f581cd  KQBBvKRRNN  1541 / 1594 43
+1c9bc4316e30f48c  97af334b868ca6f1  KQRvKBBNNP  1396 / 1356 44
+
+lichess-quiet: 0.0641643339->
+
+ 0    6       3167                         eImbalance[1] = {   0.0641585016  CVALUE(  15)  constant
+ 0    7       4197                         eImbalance[2] = {   0.0641585016  CVALUE( -45)  constant
+ 0    8         49                         eImbalance[3] = {   0.0641585016  CVALUE(   0)  constant
+ 0    9        361                         eImbalance[4] = {   0.0641585016  CVALUE(   1)  constant
+ 0   10       8274                         eImbalance[5] = {   0.0641585016  CVALUE( -11)  constant
+ 0   11        833                         eImbalance[6] = {   0.0641585016  CVALUE( -15)  constant
+ 0   12       4164                         eImbalance[7] = {   0.0641585016  CVALUE(  28)  constant
+ 0   13       4269                         eImbalance[8] = {   0.0641585016  CVALUE(  15)  constant
+ 0   14       1473                         eImbalance[9] = {   0.0641585016  CVALUE(   8)  constant
+ 0   15        170                        eImbalance[10] = {   0.0641585016  CVALUE( -31)  constant
+     17          7                        eImbalance[12] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   16        481                        eImbalance[11] = {   0.0641585016  CVALUE( -31)  constant
+     19         16                        eImbalance[14] = {    CVALUE(   0)  canceled, too few positions in testset
+     20          1                        eImbalance[15] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   18         26                        eImbalance[13] = {   0.0641585016  CVALUE(-255)  constant
+     22          3                        eImbalance[17] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   21         34                        eImbalance[16] = {   0.0641585016  CVALUE(   1)  constant
+ 0   23         35                        eImbalance[18] = {   0.0641585016  CVALUE(   0)  constant
+ 0   24        120                        eImbalance[19] = {   0.0641585016  CVALUE(-113)  constant
+     26          1                        eImbalance[21] = {    CVALUE(   0)  canceled, too few positions in testset
+     27         18                        eImbalance[22] = {    CVALUE(   0)  canceled, too few positions in testset
+     28          2                        eImbalance[23] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   25         37                        eImbalance[20] = {   0.0641585016  CVALUE(   0)  constant
+ 0   29        684                        eImbalance[24] = {   0.0641585016  CVALUE(   1)  constant
+ 0   30         75                        eImbalance[25] = {   0.0641585016  CVALUE(   1)  constant
+ 0   31        361                        eImbalance[26] = {   0.0641585016  CVALUE( -63)  constant
+ 0   32        485                        eImbalance[27] = {   0.0641585016  CVALUE(   1)  constant
+ 0   33         76                        eImbalance[28] = {   0.0641585016  CVALUE(   0)  constant
+ 0   34         63                        eImbalance[29] = {   0.0641585016  CVALUE(  30)  constant
+ 0   35         25                        eImbalance[30] = {   0.0641585016  CVALUE( 128)  constant
+ 0   36       1076                        eImbalance[31] = {   0.0641585016  CVALUE(   2)  constant
+ 0   37         35                        eImbalance[32] = {   0.0641585016  CVALUE( 157)  constant
+ 0   38        127                        eImbalance[33] = {   0.0641585016  CVALUE(   1)  constant
+ 0   39         38                        eImbalance[34] = {   0.0641585016  CVALUE( 190)  constant
+     41          0                        eImbalance[36] = {    CVALUE(   0)  canceled, too few positions in testset
+     42          4                        eImbalance[37] = {    CVALUE(   0)  canceled, too few positions in testset
+     43          0                        eImbalance[38] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   40        180                        eImbalance[35] = {   0.0641585016  CVALUE(   3)  constant
+ 0   44         71                        eImbalance[39] = {   0.0641585016  CVALUE(   0)  constant
+ 0   45        172                        eImbalance[40] = {   0.0641585016  CVALUE(  69)  constant
+    eval eComplexpawnsbonus =  EVALUE(   4);
+    eval eComplexpawnflanksbonus =  EVALUE(  66);
+    eval eComplexonlypawnsbonus =  EVALUE(  71);
+    eval eComplexadjust =  EVALUE(-100);
+    eval eTempo =  CVALUE(  20);
+    eval eImbalance[45] = {  CVALUE(   0), CVALUE(  15), CVALUE( -45), CVALUE(   0), CVALUE(   1), CVALUE( -11), CVALUE( -15), CVALUE(  28),
+           CVALUE(  15), CVALUE(   8), CVALUE( -31), CVALUE( -31), CVALUE(   0), CVALUE(-255->0), CVALUE(   0), CVALUE(   0),
+           CVALUE(   1), CVALUE(   0), CVALUE(   0), CVALUE(-113), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0),
+           CVALUE(   1), CVALUE(   1), CVALUE( -63), CVALUE(   1), CVALUE(   0), CVALUE(  30), CVALUE( 128), CVALUE(   2),
+           CVALUE( 157), CVALUE(   1), CVALUE( 190), CVALUE(   3), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0),
+           CVALUE(  69), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0)  };
+
+
+laser: 0.1020509574->
+
+ 0    6       3823                         eImbalance[1] = {   0.1020447392  CVALUE( -13)  constant
+ 0    7       2236                         eImbalance[2] = {   0.1020447392  CVALUE(  13)  constant
+ 0    8        161                         eImbalance[3] = {   0.1020447392  CVALUE( -63)  constant
+ 0    9        126                         eImbalance[4] = {   0.1020447392  CVALUE(   1)  constant
+ 0   10       7062                         eImbalance[5] = {   0.1020447392  CVALUE(  15)  constant
+ 0   11        721                         eImbalance[6] = {   0.1020447392  CVALUE(   6)  constant
+ 0   12       6803                         eImbalance[7] = {   0.1020447392  CVALUE(  25)  constant
+ 0   13       2487                         eImbalance[8] = {   0.1020447392  CVALUE(   0)  constant
+ 0   14        779                         eImbalance[9] = {   0.1020447392  CVALUE(  14)  constant
+ 0   15        434                        eImbalance[10] = {   0.1020447392  CVALUE(  62)  constant
+     17          9                        eImbalance[12] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   16        395                        eImbalance[11] = {   0.1020447392  CVALUE(   0)  constant
+     19         12                        eImbalance[14] = {    CVALUE(   0)  canceled, too few positions in testset
+     20          8                        eImbalance[15] = {    CVALUE(   0)  canceled, too few positions in testset
+     21          9                        eImbalance[16] = {    CVALUE(   0)  canceled, too few positions in testset
+     22          0                        eImbalance[17] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   18         22                        eImbalance[13] = {   0.1020447392  CVALUE(   0)  constant
+     24          7                        eImbalance[19] = {    CVALUE(   0)  canceled, too few positions in testset
+     25         11                        eImbalance[20] = {    CVALUE(   0)  canceled, too few positions in testset
+     26          0                        eImbalance[21] = {    CVALUE(   0)  canceled, too few positions in testset
+     27          9                        eImbalance[22] = {    CVALUE(   0)  canceled, too few positions in testset
+     28          0                        eImbalance[23] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   23         25                        eImbalance[18] = {   0.1020447392  CVALUE( 319)  constant
+ 0   29        712                        eImbalance[24] = {   0.1020447392  CVALUE( -31)  constant
+ 0   30         53                        eImbalance[25] = {   0.1020447392  CVALUE(   1)  constant
+ 0   31        455                        eImbalance[26] = {   0.1020447392  CVALUE(  -2)  constant
+ 0   32        134                        eImbalance[27] = {   0.1020447392  CVALUE(  62)  constant
+ 0   33         26                        eImbalance[28] = {   0.1020447392  CVALUE(-511)  constant
+     35         12                        eImbalance[30] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   34         54                        eImbalance[29] = {   0.1020447392  CVALUE(   2)  constant
+     37         14                        eImbalance[32] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   36        740                        eImbalance[31] = {   0.1020447392  CVALUE(  18)  constant
+ 0   38         28                        eImbalance[33] = {   0.1020447392  CVALUE( 113)  constant
+ 0   39         20                        eImbalance[34] = {   0.1020447392  CVALUE(  96)  constant
+     41          0                        eImbalance[36] = {    CVALUE(   0)  canceled, too few positions in testset
+     42          0                        eImbalance[37] = {    CVALUE(   0)  canceled, too few positions in testset
+     43          0                        eImbalance[38] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   40        120                        eImbalance[35] = {   0.1020447392  CVALUE(   0)  constant
+ 0   44         29                        eImbalance[39] = {   0.1020447392  CVALUE(  16)  constant
+    eval eComplexpawnsbonus =  EVALUE(   4);
+    eval eComplexpawnflanksbonus =  EVALUE(  66);
+    eval eComplexonlypawnsbonus =  EVALUE(  71);
+    eval eComplexadjust =  EVALUE(-100);
+    eval eTempo =  CVALUE(  20);
+    eval eImbalance[45] = {  CVALUE(   0), CVALUE( -13), CVALUE(  13), CVALUE( -63), CVALUE(   1), CVALUE(  15), CVALUE(   6), CVALUE(  25),
+           CVALUE(   0), CVALUE(  14), CVALUE(  62), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0),
+           CVALUE(   0), CVALUE(   0), CVALUE( 319), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0),
+           CVALUE( -31), CVALUE(   1), CVALUE(  -2), CVALUE(  62), CVALUE(-511 -> 0), CVALUE(   2), CVALUE(   0), CVALUE(  18),
+           CVALUE(   0), CVALUE( 113), CVALUE(  96), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(  16),
+           CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0)  };
+
+
+lc0: 0.0786010237->
+
+ 0    6       4547                         eImbalance[1] = {   0.0786001793  CVALUE(   2)  constant
+ 0    7       3527                         eImbalance[2] = {   0.0786001793  CVALUE(   3)  constant
+ 0    8         79                         eImbalance[3] = {   0.0786001793  CVALUE(  -1)  constant
+ 0    9        237                         eImbalance[4] = {   0.0786001793  CVALUE( -31)  constant
+ 0   10       7381                         eImbalance[5] = {   0.0786001793  CVALUE(   2)  constant
+ 0   11        532                         eImbalance[6] = {   0.0786001793  CVALUE( -29)  constant
+ 0   12      14199                         eImbalance[7] = {   0.0786001793  CVALUE(   7)  constant
+ 0   13       5155                         eImbalance[8] = {   0.0786001793  CVALUE(  14)  constant
+ 0   14       1298                         eImbalance[9] = {   0.0786001793  CVALUE(   1)  constant
+ 0   15        299                        eImbalance[10] = {   0.0786001793  CVALUE(  -2)  constant
+     17          7                        eImbalance[12] = {    CVALUE(   0)  canceled, too few positions in testset
+     18         29                        eImbalance[13] = {    CVALUE(   0)  canceled, too few positions in testset
+     19         17                        eImbalance[14] = {    CVALUE(   0)  canceled, too few positions in testset
+     20          2                        eImbalance[15] = {    CVALUE(   0)  canceled, too few positions in testset
+     21          7                        eImbalance[16] = {    CVALUE(   0)  canceled, too few positions in testset
+     22          0                        eImbalance[17] = {    CVALUE(   0)  canceled, too few positions in testset
+     23          9                        eImbalance[18] = {    CVALUE(   0)  canceled, too few positions in testset
+     24          8                        eImbalance[19] = {    CVALUE(   0)  canceled, too few positions in testset
+     25          0                        eImbalance[20] = {    CVALUE(   0)  canceled, too few positions in testset
+     26          1                        eImbalance[21] = {    CVALUE(   0)  canceled, too few positions in testset
+     27          4                        eImbalance[22] = {    CVALUE(   0)  canceled, too few positions in testset
+     28          0                        eImbalance[23] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   16        189                        eImbalance[11] = {   0.0786001793  CVALUE(  15)  constant
+     30         33                        eImbalance[25] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   29       1004                        eImbalance[24] = {   0.0786001793  CVALUE( -15)  constant
+ 0   31       1213                        eImbalance[26] = {   0.0786001793  CVALUE(   1)  constant
+ 0   32        298                        eImbalance[27] = {   0.0786001793  CVALUE( -29)  constant
+     34         13                        eImbalance[29] = {    CVALUE(   0)  canceled, too few positions in testset
+     35         10                        eImbalance[30] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   33         68                        eImbalance[28] = {   0.0786001793  CVALUE(  -3)  constant
+     37         33                        eImbalance[32] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   36       2120                        eImbalance[31] = {   0.0786001793  CVALUE(   0)  constant
+ 0   38         61                        eImbalance[33] = {   0.0786001793  CVALUE(   0)  constant
+ 0   39         75                        eImbalance[34] = {   0.0786001793  CVALUE(  30)  constant
+     41          0                        eImbalance[36] = {    CVALUE(   0)  canceled, too few positions in testset
+     42          4                        eImbalance[37] = {    CVALUE(   0)  canceled, too few positions in testset
+     43          0                        eImbalance[38] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   40        428                        eImbalance[35] = {   0.0786001793  CVALUE(   7)  constant
+ 0   44         49                        eImbalance[39] = {   0.0786001793  CVALUE(   2)  constant
+ 0   45        259                        eImbalance[40] = {   0.0786001793  CVALUE(  63)  constant
+    eval eComplexpawnsbonus =  EVALUE(   4);
+    eval eComplexpawnflanksbonus =  EVALUE(  66);
+    eval eComplexonlypawnsbonus =  EVALUE(  71);
+    eval eComplexadjust =  EVALUE(-100);
+    eval eTempo =  CVALUE(  20);
+    eval eImbalance[45] = {  CVALUE(   0), CVALUE(   2), CVALUE(   3), CVALUE(  -1), CVALUE( -31), CVALUE(   2), CVALUE( -29), CVALUE(   7),
+           CVALUE(  14), CVALUE(   1), CVALUE(  -2), CVALUE(  15), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0),
+           CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0),
+           CVALUE( -15), CVALUE(   0), CVALUE(   1), CVALUE( -29), CVALUE(  -3), CVALUE(   0), CVALUE(   0), CVALUE(   0),
+           CVALUE(   0), CVALUE(   0), CVALUE(  30), CVALUE(   7), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   2),
+           CVALUE(  63), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0)  };
+
+
+alle kombiniert: 0.1884422294->
+
+ 0    6       7374                         eImbalance[1] = {   0.1884410364  CVALUE(  30)  constant
+ 0    7       5186                         eImbalance[2] = {   0.1884410364  CVALUE( -29)  constant
+ 0    8        106                         eImbalance[3] = {   0.1884410364  CVALUE( -65)  constant
+ 0    9        804                         eImbalance[4] = {   0.1884410364  CVALUE(   1)  constant
+ 0   10       9965                         eImbalance[5] = {   0.1884410364  CVALUE(   0)  constant
+ 0   11        814                         eImbalance[6] = {   0.1884410364  CVALUE(  62)  constant
+ 0   12      24124                         eImbalance[7] = {   0.1884410364  CVALUE(  32)  constant
+ 0   13       8070                         eImbalance[8] = {   0.1884410364  CVALUE(  31)  constant
+ 0   14       2325                         eImbalance[9] = {   0.1884410364  CVALUE( -37)  constant
+ 0   15        415                        eImbalance[10] = {   0.1884410364  CVALUE(   0)  constant
+     17          7                        eImbalance[12] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   16        379                        eImbalance[11] = {   0.1884410364  CVALUE(   1)  constant
+     19         34                        eImbalance[14] = {    CVALUE(   0)  canceled, too few positions in testset
+     20          2                        eImbalance[15] = {    CVALUE(   0)  canceled, too few positions in testset
+     21         15                        eImbalance[16] = {    CVALUE(   0)  canceled, too few positions in testset
+     22          3                        eImbalance[17] = {    CVALUE(   0)  canceled, too few positions in testset
+     23         11                        eImbalance[18] = {    CVALUE(   0)  canceled, too few positions in testset
+     24         12                        eImbalance[19] = {    CVALUE(   0)  canceled, too few positions in testset
+     25          0                        eImbalance[20] = {    CVALUE(   0)  canceled, too few positions in testset
+     26          1                        eImbalance[21] = {    CVALUE(   0)  canceled, too few positions in testset
+     27          4                        eImbalance[22] = {    CVALUE(   0)  canceled, too few positions in testset
+     28          2                        eImbalance[23] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   18         76                        eImbalance[13] = {   0.1884410364  CVALUE(-255)  constant
+     30         40                        eImbalance[25] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   29       1324                        eImbalance[24] = {   0.1884410364  CVALUE(  30)  constant
+ 0   31       1549                        eImbalance[26] = {   0.1884410364  CVALUE(   1)  constant
+ 0   32        419                        eImbalance[27] = {   0.1884410364  CVALUE(  21)  constant
+     34         20                        eImbalance[29] = {    CVALUE(   0)  canceled, too few positions in testset
+     35         14                        eImbalance[30] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   33        112                        eImbalance[28] = {   0.1884410364  CVALUE(   0)  constant
+     37         39                        eImbalance[32] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   36       2514                        eImbalance[31] = {   0.1884410364  CVALUE(   4)  constant
+ 0   38         91                        eImbalance[33] = {   0.1884410364  CVALUE( -31)  constant
+ 0   39         86                        eImbalance[34] = {   0.1884410364  CVALUE( 127)  constant
+     41          0                        eImbalance[36] = {    CVALUE(   0)  canceled, too few positions in testset
+     42          5                        eImbalance[37] = {    CVALUE(   0)  canceled, too few positions in testset
+     43          0                        eImbalance[38] = {    CVALUE(   0)  canceled, too few positions in testset
+     44         72                        eImbalance[39] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   40        628                        eImbalance[35] = {   0.1884410364  CVALUE(  14)  constant
+ 0   45        484                        eImbalance[40] = {   0.1884410364  CVALUE(  93)  constant
+    eval eComplexpawnsbonus =  EVALUE(   4);
+    eval eComplexpawnflanksbonus =  EVALUE(  66);
+    eval eComplexonlypawnsbonus =  EVALUE(  71);
+    eval eComplexadjust =  EVALUE(-100);
+    eval eTempo =  CVALUE(  20);
+    eval eImbalance[45] = {  CVALUE(   0), CVALUE(  30), CVALUE( -29), CVALUE( -65), CVALUE(   1), CVALUE(   0), CVALUE(  62), CVALUE(  32),
+           CVALUE(  31), CVALUE( -37), CVALUE(   0), CVALUE(   1), CVALUE(   0), CVALUE(-255->0), CVALUE(   0), CVALUE(   0),
+           CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0),
+           CVALUE(  30), CVALUE(   0), CVALUE(   1), CVALUE(  21), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   4),
+           CVALUE(   0), CVALUE( -31), CVALUE( 127), CVALUE(  14), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0),
+           CVALUE(  93), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0)  };
+
+
+lc0 und die 3er-Kombi scheinen die schlechtesten zu sein, also...
+lichess+laser: 0.1335401897->
+
+ 0    6       7270                         eImbalance[1] = {   0.1335375278  CVALUE(  21)  constant
+ 0    7       4231                         eImbalance[2] = {   0.1335375278  CVALUE(  14)  constant
+ 0    8        226                         eImbalance[3] = {   0.1335375278  CVALUE(   0)  constant
+ 0    9        479                         eImbalance[4] = {   0.1335375278  CVALUE(   1)  constant
+ 0   10      11575                         eImbalance[5] = {   0.1335375278  CVALUE(  31)  constant
+ 0   11       1275                         eImbalance[6] = {   0.1335375278  CVALUE(  57)  constant
+ 0   12      10761                         eImbalance[7] = {   0.1335375278  CVALUE(  31)  constant
+ 0   13       4030                         eImbalance[8] = {   0.1335375278  CVALUE(   1)  constant
+ 0   14       1410                         eImbalance[9] = {   0.1335375278  CVALUE( -29)  constant
+ 0   15        539                        eImbalance[10] = {   0.1335375278  CVALUE( -30)  constant
+     17          9                        eImbalance[12] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   16        606                        eImbalance[11] = {   0.1335375278  CVALUE( -31)  constant
+     19         25                        eImbalance[14] = {    CVALUE(   0)  canceled, too few positions in testset
+     20          8                        eImbalance[15] = {    CVALUE(   0)  canceled, too few positions in testset
+     21         17                        eImbalance[16] = {    CVALUE(   0)  canceled, too few positions in testset
+     22          3                        eImbalance[17] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   18         47                        eImbalance[13] = {   0.1335375278  CVALUE(-255)  constant
+     24         31                        eImbalance[19] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   23         60                        eImbalance[18] = {   0.1335375278  CVALUE(   0)  constant
+     26          0                        eImbalance[21] = {    CVALUE(   0)  canceled, too few positions in testset
+     27         10                        eImbalance[22] = {    CVALUE(   0)  canceled, too few positions in testset
+     28          2                        eImbalance[23] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   25         48                        eImbalance[20] = {   0.1335375278  CVALUE(   0)  constant
+ 0   29       1410                        eImbalance[24] = {   0.1335375278  CVALUE( -14)  constant
+ 0   30         96                        eImbalance[25] = {   0.1335375278  CVALUE(   1)  constant
+ 0   31        645                        eImbalance[26] = {   0.1335375278  CVALUE(   1)  constant
+ 0   32        499                        eImbalance[27] = {   0.1335375278  CVALUE(  30)  constant
+ 0   33         40                        eImbalance[28] = {   0.1335375278  CVALUE(-255)  constant
+     35         33                        eImbalance[30] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   34        111                        eImbalance[29] = {   0.1335375278  CVALUE(  60)  constant
+ 0   36       1818                        eImbalance[31] = {   0.1335375278  CVALUE(   2)  constant
+     38         38                        eImbalance[33] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   37         45                        eImbalance[32] = {   0.1335375278  CVALUE( 143)  constant
+ 0   39         58                        eImbalance[34] = {   0.1335375278  CVALUE( 190)  constant
+     41          0                        eImbalance[36] = {    CVALUE(   0)  canceled, too few positions in testset
+     42          0                        eImbalance[37] = {    CVALUE(   0)  canceled, too few positions in testset
+     43          0                        eImbalance[38] = {    CVALUE(   0)  canceled, too few positions in testset
+ 0   40        200                        eImbalance[35] = {   0.1335375278  CVALUE(  14)  constant
+ 0   44         73                        eImbalance[39] = {   0.1335375278  CVALUE( -31)  constant
+ 0   45        269                        eImbalance[40] = {   0.1335375278  CVALUE(  62)  constant
+    eval eComplexpawnsbonus =  EVALUE(   4);
+    eval eComplexpawnflanksbonus =  EVALUE(  66);
+    eval eComplexonlypawnsbonus =  EVALUE(  71);
+    eval eComplexadjust =  EVALUE(-100);
+    eval eTempo =  CVALUE(  20);
+    eval eImbalance[45] = {  CVALUE(   0), CVALUE(  21), CVALUE(  14), CVALUE(   0), CVALUE(   1), CVALUE(  31), CVALUE(  57), CVALUE(  31),
+           CVALUE(   1), CVALUE( -29), CVALUE( -30), CVALUE( -31), CVALUE(   0), CVALUE(-255->0), CVALUE(   0), CVALUE(   0),
+           CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0),
+           CVALUE( -14), CVALUE(   1), CVALUE(   1), CVALUE(  30), CVALUE(-255->0), CVALUE(  60), CVALUE(   0), CVALUE(   2),
+           CVALUE( 143), CVALUE(   0), CVALUE( 190), CVALUE(  14), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE( -31),
+           CVALUE(  62), CVALUE(   0), CVALUE(   0), CVALUE(   0), CVALUE(   0)  };
+
