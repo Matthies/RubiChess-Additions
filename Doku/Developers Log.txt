@@ -860,4 +860,10 @@ Rf1 Qg5 15. Nxf7 Qxe3+ 16. Qe2 Qxe2+ 17. Bxe2 Rh7 18. Bxg4 Nc6 19. Bh5 Ke7
 38. h4 a5 39. g4 hxg4 40. Kxg4 b5 41. cxb5 cxb5 42. axb5 a4 43. b6 a3 44.
 b7 a2 45. b8=Q a1=Q 46. Qxd6+ Kh7 47. Qd3+ Kh6 48. Qd4 Qh1 49. c4 Qa8 50.
 Qd6+ Kg7 51. Qe5+ 1-0
- 
+
+
+07.04.2020
+Interessante Position aus Spiel 169 der TCEC S17 DivP:
+r3r1k1/1pq3bp/2p2pp1/2B1P3/pP1R4/Pb2R1PP/3Q1PB1/6K1 b - - 3 27 
+Rubi sieht wie Scorpio nicht, dass f6xe5 verliert. Die großen Jungs gehen
+sofort auf +2 in der Bewertung.
