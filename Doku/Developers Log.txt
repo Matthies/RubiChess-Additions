@@ -867,3 +867,26 @@ Interessante Position aus Spiel 169 der TCEC S17 DivP:
 r3r1k1/1pq3bp/2p2pp1/2B1P3/pP1R4/Pb2R1PP/3Q1PB1/6K1 b - - 3 27 
 Rubi sieht wie Scorpio nicht, dass f6xe5 verliert. Die großen Jungs gehen
 sofort auf +2 in der Bewertung.
+
+
+22.05,2020
+Blunder in einem Gauntlet Spiel gegen Defenchess.
+Nach 31. .. Qd7 geht SF von 0.0 auf +2 für Weiß.
+
+[Event "Computer game"]
+[Site "GrahamCCRL.dyndns.org\\RubiChess Gauntlet.e1e"]
+[Date "2020.05.22"]
+[Round "?"]
+[White "Defenchess 2.2 x64"]
+[Black "RubiChess 1.7.2 Popcnt"]
+[TimeControl "40/960"]
+[Result "1-0"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 cxd4 8.cxd4 f6 9.Nf4 
+Nxd4 10.Qh5+ Ke7 11.exf6+ Nxf6 12.Ng6+ hxg6 13.Qxh8 Kf7 14.O-O e5 15.Nf3 Nxf3+ 
+16.gxf3 Bf5 17.Bxf5 gxf5 18.Bg5 Bc5 19.Qh3 Qd7 20.Rac1 f4 21.Qh4 b6 22.Bxf6 gxf6 
+23.Qh5+ Ke6 24.Kh1 Rf8 25.Rg1 Bxf2 26.Qh3+ Kd6 27.Qh6 Rf7 28.Rg6 Qd8 29.Qh3 Bc5 
+30.a3 Qe8 31.Qh5 Qd7 32.Rg8 a5 33.Qh8 Ke7 34.b4 axb4 35.axb4 Bxb4 36.Rcc8 Qb5 
+37.Rge8+ Kd6 38.Qh3 Re7 39.Rf8 e4 40.Rxf6+ Ke5 41.Rf5+ Kd4 42.Qg2 Bc5 43.Qg1+ e3 
+44.Qd1+ Kc3 45.Rxd5 e2 1-0
+
