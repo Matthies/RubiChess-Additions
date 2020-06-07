@@ -890,3 +890,7 @@ Nxd4 10.Qh5+ Ke7 11.exf6+ Nxf6 12.Ng6+ hxg6 13.Qxh8 Kf7 14.O-O e5 15.Nf3 Nxf3+
 37.Rge8+ Kd6 38.Qh3 Re7 39.Rf8 e4 40.Rxf6+ Ke5 41.Rf5+ Kd4 42.Qg2 Bc5 43.Qg1+ e3 
 44.Qd1+ Kc3 45.Rxd5 e2 1-0
 
+
+07.06.2020
+In dieser Position 8/3r4/k7/1p2K3/1P1N1N2/P7/8/8 b - - 87 143 spielt Xiphos den
+Zug Rc6 und gute Engines sehen sofort den Gewinner Nd5. Rubi sieht diesen Sieg nicht.
