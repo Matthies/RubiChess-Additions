@@ -899,3 +899,8 @@ Zug Rc6 und gute Engines sehen sofort den Gewinner Nd5. Rubi sieht diesen Sieg n
 16.06.2020
 Interessante Position, bei der g6 das Remis hält:
 k7/7p/2p5/2rp1PP1/pp6/7p/5K1P/4R3 w - - 0 1
+
+26.08.2020
+5k2/pr2R2p/2qP4/2P5/P2B4/5N2/6PK/8 w - - 6 50 
+Aus TCEC S19 L1 Xiphos-Arasan. Rubi findet den Gewinnerzug Bd4-g7+ nicht.
+Bzw. einen Zug später nicht Bg7f6.
