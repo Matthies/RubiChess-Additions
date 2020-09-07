@@ -934,3 +934,6 @@ Qf3 Rd8 52. Qa3 Re8 53. R2f3 Nf6 54. R7xf6 exf6 *
 
 Schlimmer Fehler in einem CCC event, also mit vielen Kernen. Rubi erkennt nicht, dass 49. Kf1 verliert.
 Ist wohl das Problem, was im SF Forum als Pseudo-3fold bzeichnet wird.
+Die weitere Analyse zeigt, dass in dieser Position
+2q4k/4pR1n/1p1r2p1/1P2p1Pp/p3P2P/8/QP2R3/6K1 b - - 0 51
+Rubi den Gewinner Nh7-f6 nicht findet bzw. sehr spät (Tiefe 44).
