@@ -971,3 +971,5 @@ Kc3 Rxe3+ 94. Kxd4 Re2 95. Rxh4 Rxf2 96. Rh6+ Ke7 97. a6 Ra2 98. Rh7+ Kf6 99.
 Rh6+ Kg5 100. Rh7 Rxa6 *
 
 Rubi sieht das Remis nicht, bewertet nach 91. Rh7+ mit +2,7.
+91. Re3xe4 hätte gewonnen.
+
