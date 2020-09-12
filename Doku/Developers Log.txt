@@ -937,3 +937,37 @@ Ist wohl das Problem, was im SF Forum als Pseudo-3fold bzeichnet wird.
 Die weitere Analyse zeigt, dass in dieser Position
 2q4k/4pR1n/1p1r2p1/1P2p1Pp/p3P2P/8/QP2R3/6K1 b - - 0 51
 Rubi den Gewinner Nh7-f6 nicht findet bzw. sehr spät (Tiefe 44).
+
+
+12.09.2020
+[Event "CPU Blitz Madness (3|2)"]
+[Site "?"]
+[Date "2020.09.12"]
+[Round "1"]
+[White "Rubi"]
+[Black "Wasp"]
+[Result "*"]
+[ECO "A00"]
+[GameStartTime "2020-09-12T10:26:43.195 PDT"]
+[Opening "Benko's Opening"]
+[Termination "unterminated"]
+[TimeControl "180+2"]
+
+1. g3 e6 2. Bg2 Be7 3. Nf3 Nf6 4. d4 O-O 5. c4 d5 6. O-O Nbd7 7. Qc2 a5 8. b3 a4
+9. bxa4 c6 10. Bd2 Re8 11. Rd1 Qb6 12. a5 Qa6 13. a4 Ne4 14. Be1 Qxc4 15. Qxc4
+dxc4 16. Ra2 Rd8 17. Nfd2 Nd6 18. Na3 Rxa5 19. Naxc4 Ra7 20. Raa1 f5 21. Nxd6
+Bxd6 22. Nc4 Be7 23. e3 Ra6 24. Rdb1 Nf6 25. Ba5 Rf8 26. Bb6 g6 27. a5 g5 28.
+Bf1 Ra8 29. Bg2 Ra6 30. Bf3 Kg7 31. Bc7 Nd5 32. Be5+ Kg6 33. g4 Rd8 34. gxf5+
+exf5 35. Bxd5 cxd5 36. Nb6 Be6 37. Bc7 Re8 38. Rb5 f4 39. exf4 gxf4 40. Nxd5
+Bxd5 41. Rxd5 f3 42. Bb6 Bh4 43. Rb5 Bd8 44. Bxd8 Rxd8 45. Rxb7 Rxd4 46. Rb5 h5
+47. h3 h4 48. Ra3 Rf4 49. Kh2 Kf7 50. Ra1 Kf6 51. Rab1 Ke7 52. Re5+ Kf7 53. Ra1
+Kf6 54. Rb5 Kf7 55. Rg5 Kf8 56. Ra3 Ke7 57. Kg1 Kf6 58. Rd5 Ke6 59. Rg5 Kf6 60.
+Rb5 Kf7 61. Kh1 Ke6 62. Kh2 Ke7 63. Rc5 Kf6 64. Ra1 Rd4 65. Ra3 Rf4 66. Rb5 Kf7
+67. Rg5 Kf6 68. Rh5 Kg7 69. Re5 Kf7 70. Kh1 Kg6 71. Kh2 Kf6 72. Rd5 Ke6 73. Rh5
+Kf7 74. Rg5 Kf6 75. Rd5 Ke6 76. Rh5 Kf7 77. Ra1 Ke7 78. Rc5 Kf7 79. Kh1 Kf6 80.
+Kh2 Rb4 81. Rd5 Rc4 82. Rb5 Rc2 83. Kg1 Rc4 84. Ra3 Rf4 85. Rh5 Kg7 86. Rd5 Kf6
+87. Kf1 Ke6 88. Rh5 Ke7 89. Ke1 Re4+ 90. Re3 Rae6 91. Rh7+ Kd6 92. Kd2 Rd4+ 93.
+Kc3 Rxe3+ 94. Kxd4 Re2 95. Rxh4 Rxf2 96. Rh6+ Ke7 97. a6 Ra2 98. Rh7+ Kf6 99.
+Rh6+ Kg5 100. Rh7 Rxa6 *
+
+Rubi sieht das Remis nicht, bewertet nach 91. Rh7+ mit +2,7.
