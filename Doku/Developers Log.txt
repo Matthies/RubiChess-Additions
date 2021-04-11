@@ -973,3 +973,7 @@ Rh6+ Kg5 100. Rh7 Rxa6 *
 Rubi sieht das Remis nicht, bewertet nach 91. Rh7+ mit +2,7.
 91. Re3xe4 hätte gewonnen.
 
+
+11.04.2021
+6rk/1p2P2p/p4p1r/n1KQ2q1/4P1P1/8/1R2B3/1R6 b - - 1 54 
+Rubi hat Schwierigkeiten, den Gewinnerzug Qe3+ zu finden.... Tiefe 41 mit 16 Threads nach 5 Minuten.
